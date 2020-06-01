@@ -7,8 +7,8 @@ class conexion{
     private $database = "edigital_plan4us";
 	*/
     private $host = "192.168.1.248";
-    private $usuario = "tawi_admin";
-    private $clave = "7Mdt&viY!X#-";
+    private $usuario = "root";
+    private $clave = "Huawei2020";
     private $database = "tawi_qas";
     public $conexion;
     
