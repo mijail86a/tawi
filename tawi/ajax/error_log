@@ -1,0 +1,10 @@
+[03-Sep-2019 00:41:09 UTC] PHP Fatal error:  Uncaught Error: Class 'libreria' not found in /home/edigitaltesting/public_html/restaurant/ajax/ajax.lib.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/ajax/ajax.lib.php on line 3
+[03-Sep-2019 00:41:09 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ')' in /home/edigitaltesting/public_html/restaurant/lib/functions.lib.php on line 656
+[03-Sep-2019 00:57:48 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ')' in /home/edigitaltesting/public_html/restaurant/lib/functions.lib.php on line 656
+[04-Sep-2019 11:53:05 America/Lima] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/edigitaltesting/public_html/restaurant/ajax/ajax.carrito.php on line 17
+[04-Sep-2019 11:53:05 America/Lima] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/edigitaltesting/public_html/restaurant/ajax/ajax.carrito.php on line 17
+[04-Sep-2019 12:39:01 America/Lima] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/edigitaltesting/public_html/restaurant/ajax/ajax.carrito.php on line 17
+[04-Sep-2019 12:39:01 America/Lima] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/edigitaltesting/public_html/restaurant/ajax/ajax.carrito.php on line 17

@@ -1,0 +1,2327 @@
+[02-Sep-2019 12:35:08 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined function estado() in /home/edigitaltesting/public_html/restaurant/lib/functions.lib.php:316
+Stack trace:
+#0 /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php(117): libreria->dashboard_pedidoReporte('2019-08-01 12:0...', '2019-09-02 23:5...', '0')
+#1 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/lib/functions.lib.php on line 316
+[02-Sep-2019 17:08:14 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 17:08:17 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 17:08:20 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 17:08:23 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 17:08:26 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 17:08:29 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 17:08:32 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 17:08:35 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 17:08:38 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 17:08:42 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 17:08:44 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 17:08:47 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 17:08:50 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 17:08:54 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 17:08:56 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 17:08:59 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 17:09:02 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 17:09:05 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 17:09:08 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 17:09:12 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 17:09:14 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 17:09:17 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 17:09:20 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 17:09:24 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 17:09:26 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 17:09:29 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 17:09:33 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 17:09:35 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 17:09:38 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 17:09:42 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 17:09:44 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 17:09:47 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 17:09:50 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 17:09:53 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:10:24 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:10:27 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:10:30 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:10:33 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:10:36 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:10:39 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:10:42 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:10:45 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:10:48 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:10:52 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:10:54 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:10:57 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:11:00 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:11:03 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:11:06 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:11:09 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:11:12 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:11:15 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:11:20 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:11:23 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:11:25 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:11:28 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:11:31 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:11:35 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:11:38 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:11:40 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:11:43 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:11:46 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:11:49 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:11:52 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:11:55 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:11:58 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:12:02 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:12:05 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:12:07 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:12:11 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:12:14 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:12:17 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:12:19 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:12:22 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:12:25 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:12:28 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:12:31 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:12:35 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:12:37 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:12:40 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:12:43 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:12:46 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:12:49 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:12:52 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:12:55 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:12:58 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:13:01 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:13:04 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:13:08 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:13:10 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:13:13 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:13:16 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:13:20 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:13:23 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:13:26 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:13:29 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:13:32 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:13:35 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:13:38 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:13:41 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:13:44 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:13:47 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:13:50 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:13:53 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:13:56 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:13:59 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:14:02 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:14:05 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:14:08 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:14:11 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:14:14 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:14:17 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:14:20 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:14:23 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:14:26 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:14:29 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:14:32 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:14:35 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:14:38 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:14:41 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:14:44 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:14:47 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:14:50 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:14:53 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:14:56 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:14:59 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:15:02 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:15:05 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:15:08 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:15:11 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:15:14 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:15:17 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:15:20 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:15:23 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:15:26 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:15:29 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:15:32 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:15:35 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:15:38 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:15:41 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:15:44 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:15:47 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:15:50 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:15:53 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:15:56 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:15:59 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:16:02 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:16:05 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:16:08 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:16:11 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:16:14 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:16:17 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:16:20 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:16:23 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:16:26 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:16:29 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:16:32 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:16:35 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:16:38 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:16:41 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:32:26 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:32:27 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:32:29 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:32:29 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:32:29 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:32:32 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:32:32 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:32:35 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:32:35 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:32:38 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:32:38 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:32:41 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:32:41 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:32:44 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:32:44 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:32:47 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:32:47 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:32:47 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:32:48 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:32:50 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:32:50 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:32:50 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:32:52 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:32:53 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:32:53 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:32:53 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:32:56 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:32:56 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:32:56 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:32:59 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:32:59 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:32:59 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:01 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:02 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:02 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:02 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:05 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:05 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:05 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:08 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:08 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:09 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:11 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:11 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:12 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:14 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:14 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:14 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:17 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:17 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:18 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:20 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:20 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:21 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:23 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:23 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:24 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:26 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:26 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:27 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:29 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:29 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:30 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:32 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:32 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:33 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:35 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:35 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:35 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:38 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:38 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:39 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:41 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:41 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:42 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:44 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:44 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:44 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:47 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:47 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:48 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:50 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:50 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:51 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:53 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:53 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:54 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:56 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:57 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:57 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:59 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:33:59 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:00 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:02 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:02 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:03 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:05 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:05 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:06 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:08 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:08 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:09 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:11 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:11 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:12 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:14 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:14 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:14 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:17 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:17 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:17 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:20 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:20 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:21 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:23 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:23 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:24 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:26 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:26 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:27 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:29 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:29 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:30 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:32 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:32 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:33 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:35 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:35 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:36 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:38 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:38 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:39 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:41 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:41 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:42 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:44 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:44 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:45 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:47 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:47 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:48 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:50 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:50 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:51 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:53 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:53 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:54 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:56 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:56 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:57 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:59 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:34:59 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:00 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:02 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:02 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:03 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:05 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:05 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:06 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:08 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:08 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:09 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:11 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:11 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:12 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:14 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:14 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:15 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:17 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:17 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:18 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:20 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:20 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:21 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:23 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:23 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:24 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:26 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:26 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:27 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:29 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:29 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:30 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:32 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:32 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:33 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:35 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:35 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:36 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:38 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:38 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:39 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:41 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:41 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:42 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:44 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:44 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:45 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:47 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:47 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:47 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:50 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:50 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:50 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:53 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:53 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:53 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:56 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:56 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:56 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:59 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:59 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:35:59 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:02 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:02 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:02 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:05 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:05 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:05 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:08 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:08 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:08 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:11 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:11 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:11 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:14 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:14 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:14 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:17 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:17 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:17 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:20 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:20 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:20 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:23 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:23 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:23 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:26 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:26 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:26 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:29 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:29 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:29 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:32 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:32 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:32 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:35 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:35 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:35 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:38 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:38 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:38 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:41 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:41 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:41 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:44 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:44 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:45 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:47 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:47 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:48 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:50 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:50 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:51 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:53 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:53 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:54 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:56 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:56 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:57 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:59 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:36:59 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:00 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:02 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:02 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:03 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:05 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:05 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:06 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:08 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:08 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:09 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:11 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:11 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:12 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:14 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:14 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:15 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:17 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:17 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:18 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:20 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:20 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:21 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:23 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:23 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:24 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:26 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:26 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:27 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:28 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:29 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:29 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:30 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:32 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:32 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:33 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:33 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:34 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:34 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:35 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:35 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:36 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:38 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:38 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:40 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:41 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:41 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:42 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:44 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:44 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:45 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:47 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:47 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:49 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:50 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:52 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:52 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:53 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:55 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:56 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:57 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:57 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:58 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:37:59 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:00 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:02 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:03 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:03 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:05 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:06 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:06 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:07 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:08 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:09 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:09 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:11 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:12 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:12 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:14 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:15 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:15 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:17 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:18 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:18 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:20 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:21 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:21 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:23 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:24 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:24 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:26 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:27 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:27 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:29 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:30 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:30 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:33 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:33 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:33 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:35 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:36 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:36 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:36 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:39 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:39 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:39 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:41 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:42 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:42 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:42 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:43 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:44 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:45 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:45 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:45 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:47 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:47 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:47 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:48 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:48 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:48 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:49 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:49 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:50 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:50 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:51 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:51 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:51 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:51 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:54 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:55 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:55 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:57 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:57 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:58 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:38:59 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:39:00 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:39:01 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:39:02 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:39:04 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:39:05 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:39:10 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:39:15 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:39:21 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:40:18 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[02-Sep-2019 19:40:41 America/Lima] PHP Fatal error:  Uncaught Error: Call to private method libreria::dashboard_pedido_detalle() from context '' in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 91
+[03-Sep-2019 00:57:22 UTC] PHP Fatal error:  Uncaught Error: Class 'libreria' not found in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php on line 3
+[03-Sep-2019 14:16:50 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function login_cliente() on null in /home/edigitaltesting/public_html/restaurant/lib/functions.lib.php:326
+Stack trace:
+#0 /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php(117): libreria->dashboard_pedidoReporte('2019-08-01 00:0...', '2019-09-03 23:5...', '0')
+#1 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/lib/functions.lib.php on line 326
+[03-Sep-2019 14:16:58 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function login_cliente() on null in /home/edigitaltesting/public_html/restaurant/lib/functions.lib.php:326
+Stack trace:
+#0 /home/edigitaltesting/public_html/restaurant/admin/ajax/ajax.lib.php(117): libreria->dashboard_pedidoReporte('2019-08-01 00:0...', '2019-09-03 23:5...', '0')
+#1 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/lib/functions.lib.php on line 326

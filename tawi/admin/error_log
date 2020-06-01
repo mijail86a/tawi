@@ -1,0 +1,25 @@
+[03-Sep-2019 19:57:45 America/Lima] PHP Warning:  Use of undefined constant activo - assumed 'activo' (this will throw an Error in a future version of PHP) in /home/edigitaltesting/public_html/restaurant/admin/dashboard.php on line 32
+[03-Sep-2019 19:57:45 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/edigitaltesting/public_html/restaurant/lib/functions.lib.php:434
+Stack trace:
+#0 /home/edigitaltesting/public_html/restaurant/lib/functions.lib.php(301): libreria->dashboard_pedido_select('WHERE  AND crea...')
+#1 /home/edigitaltesting/public_html/restaurant/admin/dashboard.php(35): libreria->dashboard_pedido('2019-09-03', 1)
+#2 {main}
+  thrown in /home/edigitaltesting/public_html/restaurant/lib/functions.lib.php on line 434
+[03-Sep-2019 19:57:53 America/Lima] PHP Warning:  Use of undefined constant activo - assumed 'activo' (this will throw an Error in a future version of PHP) in /home/edigitaltesting/public_html/restaurant/admin/dashboard.php on line 32
+[03-Sep-2019 19:57:53 America/Lima] PHP Warning:  Use of undefined constant activo - assumed 'activo' (this will throw an Error in a future version of PHP) in /home/edigitaltesting/public_html/restaurant/admin/dashboard.php on line 32
+[03-Sep-2019 19:57:53 America/Lima] PHP Warning:  Use of undefined constant activo - assumed 'activo' (this will throw an Error in a future version of PHP) in /home/edigitaltesting/public_html/restaurant/admin/dashboard.php on line 32
+[03-Sep-2019 19:57:53 America/Lima] PHP Warning:  Use of undefined constant activo - assumed 'activo' (this will throw an Error in a future version of PHP) in /home/edigitaltesting/public_html/restaurant/admin/dashboard.php on line 32
+[12-Sep-2019 17:29:52 America/Lima] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/tawi/public_html/lib/functions.lib.php on line 470
+[27-Sep-2019 21:09:12 America/Lima] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/tawi/public_html/lib/functions.lib.php on line 236
+[27-Sep-2019 21:09:25 America/Lima] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/tawi/public_html/lib/functions.lib.php on line 236
+[27-Sep-2019 21:09:41 America/Lima] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/tawi/public_html/lib/functions.lib.php on line 236
+[28-Sep-2019 13:08:37 America/Lima] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/tawi/public_html/lib/functions.lib.php on line 236
+[28-Sep-2019 13:18:26 America/Lima] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/tawi/public_html/lib/functions.lib.php on line 236
+[28-Sep-2019 13:19:14 America/Lima] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/tawi/public_html/lib/functions.lib.php on line 236
+[28-Sep-2019 13:19:24 America/Lima] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/tawi/public_html/lib/functions.lib.php on line 179
+[28-Sep-2019 13:19:40 America/Lima] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/tawi/public_html/lib/functions.lib.php on line 236
+[28-Sep-2019 13:22:24 America/Lima] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/tawi/public_html/lib/functions.lib.php on line 236
+[28-Sep-2019 13:23:46 America/Lima] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/tawi/public_html/lib/functions.lib.php on line 237
+[28-Sep-2019 13:26:50 America/Lima] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/tawi/public_html/lib/functions.lib.php on line 242
+[28-Sep-2019 13:28:39 America/Lima] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/tawi/public_html/lib/functions.lib.php on line 242
+[30-Sep-2019 13:09:43 America/Lima] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/tawi/public_html/lib/functions.lib.php on line 476
