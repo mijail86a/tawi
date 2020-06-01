@@ -6,10 +6,10 @@ class conexion{
     private $clave = "2018*3d1g1t4l_11";
     private $database = "edigital_plan4us";
 	*/
-    private $host = "localhost";
+    private $host = "192.168.1.248";
     private $usuario = "tawi_admin";
     private $clave = "7Mdt&viY!X#-";
-    private $database = "tawi_datos";
+    private $database = "tawi_qas";
     public $conexion;
     
     function __construct(){

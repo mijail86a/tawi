@@ -1,2 +1,4 @@
-FROM nginx:1.16.1-alpine
-COPY plan4us/* /usr/share/nginx/html/
+FROM php:7.0-apache
+RUN apt-get update && \
+    apt-get clean
+COPY tawi /var/www/html/
